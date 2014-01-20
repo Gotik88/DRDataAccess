@@ -1,0 +1,1 @@
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Test.Framework.NUnit\obj\Debug\DR.DataAccess.Test.Framework.NUnit.csprojResolveAssemblyReference.cache

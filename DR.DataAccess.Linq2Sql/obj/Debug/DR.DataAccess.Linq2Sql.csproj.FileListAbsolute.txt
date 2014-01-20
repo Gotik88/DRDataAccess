@@ -1,0 +1,6 @@
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Linq2Sql.dll.config
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Linq2Sql.dll
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Linq2Sql.pdb
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.csprojResolveAssemblyReference.cache
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.dll
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.pdb

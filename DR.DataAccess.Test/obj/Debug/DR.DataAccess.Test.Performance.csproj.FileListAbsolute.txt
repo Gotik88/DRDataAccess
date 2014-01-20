@@ -1,0 +1,1 @@
+C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Test\obj\Debug\DR.DataAccess.Test.Performance.csprojResolveAssemblyReference.cache
