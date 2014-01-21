@@ -1,0 +1,4 @@
+C:\Projects\DRDataAccess\DR.DataAccess.AdoNet\bin\Debug\DR.DataAccess.AdoNet.dll
+C:\Projects\DRDataAccess\DR.DataAccess.AdoNet\bin\Debug\DR.DataAccess.AdoNet.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.AdoNet\obj\Debug\DR.DataAccess.AdoNet.dll
+C:\Projects\DRDataAccess\DR.DataAccess.AdoNet\obj\Debug\DR.DataAccess.AdoNet.pdb

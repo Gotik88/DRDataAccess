@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -20,9 +21,13 @@ namespace DR.DataAccess.Test
 
         protected SqlConnection Connection { get; set; }
 
-        protected void SetConnection(string connectionStringName)
+        protected void SetConnection(string connectionStringName = null)
         {
-            Connection = new SqlConnection(ConfigurationManager.ConnectionStrings[connectionStringName].ConnectionString);
+            connectionStringName = "NorthwindConnectionString";
+            //var connectionString = ConfigurationManager.AppSettings[connectionStringName];
+            var connectionString = ConfigurationManager.ConnectionStrings[0].ConnectionString;
+
+            Connection = new SqlConnection(connectionString);
             Connection.Open();
         }
 

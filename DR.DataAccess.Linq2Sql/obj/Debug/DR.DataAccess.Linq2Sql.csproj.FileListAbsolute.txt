@@ -4,3 +4,12 @@ C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataA
 C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.csprojResolveAssemblyReference.cache
 C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.dll
 C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Linq2Sql.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Linq2Sql.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Test.Framework.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.Test.Framework.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.csprojResolveAssemblyReference.cache
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\obj\Debug\DR.DataAccess.Linq2Sql.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Linq2Sql\bin\Debug\DR.DataAccess.pdb

@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExtendTestAttribute.cs" />
     <Compile Include="EventListeners\TraceEventListener.cs" />
-    <Compile Include="SuiteCustomBuilder.cs" />
     <Compile Include="TestCaseCustomBuilder.cs" />
     <Compile Include="TestCustomSuite.cs" />
+    <Compile Include="TestExtensions\IQueryLogger.cs" />
+    <Compile Include="TestExtensions\ITimeCounter.cs" />
     <Compile Include="TestFixtureCustomBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="TestDecorators\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

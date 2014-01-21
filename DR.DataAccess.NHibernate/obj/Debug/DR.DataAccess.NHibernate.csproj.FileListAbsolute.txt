@@ -1,0 +1,4 @@
+C:\Projects\DRDataAccess\DR.DataAccess.NHibernate\bin\Debug\DR.DataAccess.NHibernate.dll
+C:\Projects\DRDataAccess\DR.DataAccess.NHibernate\bin\Debug\DR.DataAccess.NHibernate.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.NHibernate\obj\Debug\DR.DataAccess.NHibernate.dll
+C:\Projects\DRDataAccess\DR.DataAccess.NHibernate\obj\Debug\DR.DataAccess.NHibernate.pdb

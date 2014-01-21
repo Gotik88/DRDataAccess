@@ -1,30 +1,44 @@
-﻿using System.Data.SqlClient;
-using System.Diagnostics;
-using System.IO;
+﻿
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using DR.DataAccess.Linq2Sql;
+using DR.DataAccess.Linq2Sql.Strategies;
 using NUnit.Framework;
 
 namespace DR.DataAccess.Test
 {
-    [TestFixture]
-    public class SimpleQueryTests : SqlConnectionTestBase
+    [Category("Queries")]
+    [TestFixture(TypeArgs = new[] { typeof(EagerLoadBehavior) })]
+    public class SimpleQueryTests : BaseQueryTest
     {
-        private Stopwatch _watch;
+        private LinqToSqlTestProvider _provider;
+        private List<IContextBehavior> _behaviors;
 
-        [TestFixtureSetUp]
-        public void SetUp()
+        public SimpleQueryTests() { }
+
+        public SimpleQueryTests(Type beb)
         {
-            const string ConnectionStringName = "DomainServiceConnection";
-            SetConnection(ConnectionStringName);
-            _watch = new Stopwatch();
+            //_behaviors = new List<IContextBehavior> { Activator.CreateInstance(beh) as IContextBehavior };
         }
 
-        [Test, Owner(Owner.DmytroRomanii)]
-        public void Test_Return_SimpleQuery()
+        [TestFixtureSetUp]
+        public void FixtureSetUp()
         {
-            _watch.Start();
-            Assert.IsTrue(true);
-            _watch.Stop();
-            var time = _watch.Elapsed;
+            //TestContext -  have no access from Visual Studio
+            _provider = TestProviderFactory.Create<LinqToSqlTestProvider>(new List<IContextBehavior>(_behaviors));
+        }
+
+        [Test]
+        public void Test_Return_Orders()
+        {
+            _provider.GetOrders();
+        }
+
+        [TestCase(1, 1, 1, 2, 3, 1)]
+        public void Test_Return_CustomerProducts(string productId)
+        {
+            _provider.GetCustomerProducts(productId);
         }
 
         [Test]

@@ -1,0 +1,4 @@
+C:\Projects\DRDataAccess\DR.DataAccess\bin\Debug\DR.DataAccess.dll
+C:\Projects\DRDataAccess\DR.DataAccess\bin\Debug\DR.DataAccess.pdb
+C:\Projects\DRDataAccess\DR.DataAccess\obj\Debug\DR.DataAccess.dll
+C:\Projects\DRDataAccess\DR.DataAccess\obj\Debug\DR.DataAccess.pdb

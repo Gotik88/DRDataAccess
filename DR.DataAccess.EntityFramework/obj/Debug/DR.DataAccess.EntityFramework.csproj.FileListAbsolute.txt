@@ -1,0 +1,4 @@
+C:\Projects\DRDataAccess\DR.DataAccess.EntityFramework\bin\Debug\DR.DataAccess.EntityFramework.dll
+C:\Projects\DRDataAccess\DR.DataAccess.EntityFramework\bin\Debug\DR.DataAccess.EntityFramework.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.EntityFramework\obj\Debug\DR.DataAccess.EntityFramework.dll
+C:\Projects\DRDataAccess\DR.DataAccess.EntityFramework\obj\Debug\DR.DataAccess.EntityFramework.pdb

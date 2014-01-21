@@ -1,1 +1,10 @@
 C:\Projects\DRDataAccess\DR.DataAccess\DR.DataAccess.Test.Framework.NUnit\obj\Debug\DR.DataAccess.Test.Framework.NUnit.csprojResolveAssemblyReference.cache
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\DR.DataAccess.Test.Framework.NUnit.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\DR.DataAccess.Test.Framework.NUnit.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\nunit.engine.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\nunit.framework.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\nunit.engine.api.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\nunit.framework.xml
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\bin\Debug\nunit.engine.api.xml
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\obj\Debug\DR.DataAccess.Test.Framework.NUnit.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework.NUnit\obj\Debug\DR.DataAccess.Test.Framework.NUnit.pdb

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DR.DataAccess.Linq2Sql
+namespace DR.DataAccess.Test
 {
-    public class Class1
+    public class BaseTest
     {
     }
 }

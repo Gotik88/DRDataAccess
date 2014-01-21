@@ -9,23 +9,23 @@ using NUnit = NUnit.Framework.Internal;
 
 namespace DR.DataAccess.Test.Framework.NUnit
 {
-    internal class TestCaseCustomBuilder : ITestCaseBuilder
+    internal class TestCaseCustomBuilder
     {
-        public bool CanBuildFrom(MethodInfo method)
-        {
-            return method.IsDefined(typeof(TestAttribute), false)
-                 || method.IsDefined(typeof(ITestCaseSource), false)
-                 || method.IsDefined(typeof(TheoryAttribute), false);
-        }
+        /* public bool CanBuildFrom(MethodInfo method)
+         {
+             return method.IsDefined(typeof(TestAttribute), false)
+                  || method.IsDefined(typeof(ITestCaseSource), false)
+                  || method.IsDefined(typeof(TheoryAttribute), false);
+         }
 
 
 
-        public Test BuildFrom(MethodInfo method)
-        {
-            return null;
-            /*return testCaseProvider.HasTestCasesFor(method)
-                 ? BuildParameterizedMethodSuite(method, parentSuite)
-                 : BuildSingleTestMethod(method, parentSuite, null);*/
-        }
+         public Test BuildFrom(MethodInfo method)
+         {
+             return null;
+             return testCaseProvider.HasTestCasesFor(method)
+                  ? BuildParameterizedMethodSuite(method, parentSuite)
+                  : BuildSingleTestMethod(method, parentSuite, null);
+         }*/
     }
 }

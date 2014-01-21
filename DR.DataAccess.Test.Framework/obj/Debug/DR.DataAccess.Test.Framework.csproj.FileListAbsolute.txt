@@ -1,0 +1,4 @@
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework\bin\Debug\DR.DataAccess.Test.Framework.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework\bin\Debug\DR.DataAccess.Test.Framework.pdb
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework\obj\Debug\DR.DataAccess.Test.Framework.dll
+C:\Projects\DRDataAccess\DR.DataAccess.Test.Framework\obj\Debug\DR.DataAccess.Test.Framework.pdb
